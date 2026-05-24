@@ -78,19 +78,6 @@ I'm a **Backend Developer & AI Engineer** passionate about building robust syste
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-teja-thumma-00b367343/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-azure-sigma-59.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThummaSurya)
-
-</div>
-
----
-
-
 
 ## 🤝 Let's Connect & Build Together
 
@@ -100,6 +87,7 @@ I'm always open to **collaborating on AI projects**, **backend systems**, or any
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-teja-thumma-00b367343/)
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-azure-sigma-59.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThummaSurya)
 
 ---
 
