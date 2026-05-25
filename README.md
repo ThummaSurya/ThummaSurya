@@ -3,9 +3,6 @@
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ThummaSurya&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Wave Greeting -->
-![wave](https://raw.githubusercontent.com/ThummaSurya/ThummaSurya/main/assets/wave.gif)
-
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Thumma+Surya+%F0%9F%91%8B;Backend+Developer+%26+AI+Engineer;Building+Intelligent+Systems+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Microservices+%7C+Kafka)](https://git.io/typing-svg)
 
